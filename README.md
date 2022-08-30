@@ -16,5 +16,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=Dunvii&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Dunvii&icon=9&color=6)](https://visitcount.itsvg.in)
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21cqu3mfpygnaihemvsddkhqy)
