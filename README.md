@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [Project 5 Kanap](https://github.com/Dunvii/Projet_5_Kanap)<br>🌱 I’m currently learning Javascript<br>💬 Ask me about Food
+🔭 I’m currently working on [Project 6 Piiquante](https://github.com/Dunvii/Projet_6_Piiquante)<br>🌱 I’m currently learning Javascript<br>💬 Ask me about Food
 
 
 ## 🌐 Socials:
