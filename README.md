@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [Project 6 Piiquante](https://github.com/Dunvii/Projet_6_Piiquante)<br>🌱 I’m currently learning NodeJS, Express, MongoDB <br>💬 Ask me about Food
+🔭 I’m currently working on [Project 7 Groupomania]()<br>🌱 I’m currently learning VueJS, Sequelize  <br>💬 Ask me about Food
 
 
 ## 🌐 Socials:
