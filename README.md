@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [Project 7 Groupomania]()<br>🌱 I’m currently learning VueJS, Sequelize  <br>💬 Ask me about Food
+🔭 I’m currently working on [Project 7 Groupomania]()<br>🌱 I’m currently learning NuxtJs with VueJS, Sequelize <br>💬 Ask me about Food
 
 
 ## 🌐 Socials:
